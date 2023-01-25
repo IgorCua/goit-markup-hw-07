@@ -539,9 +539,9 @@ img{
     transition-timing-function: var(--tra); */
 }
 
-.main ul{
+/* .main ul{
     list-style: none;
-}
+} */
 
     /* -------------modal window----------- */
 .modal-backdrop.is-hidden{
