@@ -238,7 +238,7 @@
 
     .checkbox__input:checked + &{
         fill: $accent-color;
-        background-image: url("../images/main-header-bg.jpg");
+        background-image: url("../images/icon-check.svg");
         background-origin: border-box;
         background-size: contain;
     }
