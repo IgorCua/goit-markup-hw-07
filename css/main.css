@@ -61,14 +61,6 @@ img {
   cursor: pointer;
 }
 
-.logo {
-  font-family: "Raleway";
-  font-weight: 700;
-  font-size: 26px;
-  line-height: 1.19;
-  text-decoration: none;
-}
-
 .social-accounts {
   height: 44px;
   padding: 0;
@@ -117,6 +109,14 @@ img {
   margin: 0;
   fill: currentColor;
   pointer-events: none;
+}
+
+.logo {
+  font-family: "Raleway";
+  font-weight: 700;
+  font-size: 26px;
+  line-height: 1.19;
+  text-decoration: none;
 }
 
 .header {

@@ -1,8 +1,8 @@
 @import "./utils/variables";
-@import "./components/global-param";
+@import "./utils/global-param";
 @import "./utils/placeholders";
+@import "./utils/social-accounts";
 @import "./components/logo";
-@import "./components/social-accounts";
 @import "./components/header";
 @import "./components/header__logo";
 @import "./components/header__nav";
@@ -18,4 +18,3 @@
 @import "./components/portfolio";
 @import "./components/portfolio__filter";
 @import "./components/portfolio__projects";
-// Social accounts module
